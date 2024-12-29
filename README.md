@@ -1,2 +1,2 @@
-# my-project
-Investment Portfolio Optimizer
+# Investment Portfolio Optimizer
+
